@@ -13,6 +13,7 @@ Education
 ======
 * M.Sc. in Mathematics, Warsaw University of Technology, 2018
 * Ph.D. in Computational Linguistics/Computer Science, Charles University, 2020 - now
+  * Supervised by [Pavel Pecina](https://ufal.mff.cuni.cz/~pecina/index.html)
 
 Work experience
 ======
@@ -26,13 +27,13 @@ Work experience
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
