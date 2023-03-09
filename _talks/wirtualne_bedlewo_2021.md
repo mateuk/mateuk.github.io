@@ -6,4 +6,4 @@ date: 2021-05-08
 location: "Online (in Polish)"
 ---
 
-[Slides](https://mateuk.github.io/files/wirtualne_bedlewo_2021.pdf)
+[Link](https://pages.mini.pw.edu.pl/~radadokt/bedlewo2021/index.php), [Slides](https://mateuk.github.io/files/wirtualne_bedlewo_2021.pdf)
