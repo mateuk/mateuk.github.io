@@ -1,6 +1,7 @@
 ---
 title: "From COMET to COMES – Can Summary Evaluation Benefit from Translation Evaluation?"
 collection: publications
+excerpt: ''
 venue: 'The 3rd Workshop on Evaluation & Comparison of NLP Systems (Eval4NLP @ AACL-IJCNLP 2022)'
 paperurl: 'https://aclanthology.org/2020.wmt-1.16.pdf'
 ---

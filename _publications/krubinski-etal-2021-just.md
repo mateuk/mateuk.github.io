@@ -1,6 +1,7 @@
 ---
 title: "Just Ask! Evaluating Machine Translation by Asking and Answering Questions"
 collection: publications
+excerpt: ''
 venue: 'Sixth Conference on Machine Translation (WMT21 @ EMNLP 2021)'
 paperurl: 'https://aclanthology.org/2021.wmt-1.58.pdf'
 ---

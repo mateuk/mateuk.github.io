@@ -1,6 +1,7 @@
 ---
 title: "Samsung R&D Institute Poland submission to WMT20 News Translation Task"
 collection: publications
+excerpt: ''
 venue: 'Fifth Conference on Machine Translation (WMT20 @ EMNLP 2020)'
 paperurl: 'https://aclanthology.org/2020.wmt-1.16.pdf'
 ---
