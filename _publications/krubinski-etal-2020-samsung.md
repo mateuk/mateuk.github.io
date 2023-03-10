@@ -2,6 +2,7 @@
 title: "Samsung R&D Institute Poland submission to WMT20 News Translation Task"
 collection: publications
 excerpt: ''
+authors: "**Mateusz Krubiński**, Marcin Chochowski, Bartłomiej Boczek, Mikołaj Koszowski, Adam Dobrowolski, Marcin Szymański, Paweł Przybysz"
 venue: 'Fifth Conference on Machine Translation (WMT20 @ EMNLP 2020)'
 paperurl: 'https://aclanthology.org/2020.wmt-1.16.pdf'
 ---

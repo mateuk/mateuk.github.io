@@ -2,6 +2,7 @@
 title: "MTEQA at WMT21 Metrics Shared Task"
 collection: publications
 excerpt: ''
+authors: "**Mateusz Krubiński**, Erfan Ghadery, Marie-Francine Moens, Pavel Pecina"
 venue: 'Sixth Conference on Machine Translation (WMT21 @ EMNLP 2021)'
 paperurl: 'https://aclanthology.org/2021.wmt-1.110.pdf'
 ---
