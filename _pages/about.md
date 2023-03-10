@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-PhD Student at [![UFAL_logo](https://ufal.mff.cuni.cz/sites/all/themes/drufal/css/logo/logo_ufal_110u.png)](https://ufal.mff.cuni.cz/)
+Ph.D. Student at [![UFAL_logo](https://ufal.mff.cuni.cz/sites/all/themes/drufal/css/logo/logo_ufal_110u.png)](https://ufal.mff.cuni.cz/)
