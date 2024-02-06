@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computational Linguistics/Computer Science; *Charles University, 2020 - now*
-  * Supervised by [Pavel Pecina](https://ufal.mff.cuni.cz/~pecina/index.html)
+  * Supervised by [Pavel Pecina](https://scholar.google.com/citations?user=NMFKnr8AAAAJ)
 * M.Sc. in Mathematics; *Warsaw University of Technology, 2013 - 2018*
 
 Work experience
