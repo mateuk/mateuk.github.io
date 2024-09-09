@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* Summer 2024 - *now*: Research Scientist @Snowflake
+
+* Summer 2022 - Fall 2022: Applied Scientist Intern @Amazon
+
+* Summer 2018 - Fall 2020: NLP Engineer @Samsung R&D Institute Poland
+
 Education
 ======
 * Ph.D. in Computational Linguistics/Computer Science (2020 - 2024)
@@ -17,14 +25,3 @@ Education
 * M.Sc. in Mathematics (2013 - 2018)
   * Warsaw University of Technology in Warsaw, Poland
 
-Work experience
-======
-* Summer 2024 - *now*: Research Scientist
-  * Snowflake in Warsaw, Poland
-
-* Summer 2022 - Fall 2022: Applied Scientist Intern
-  * Amazon Development Center in Bucharest, Romania
-
-* Summer 2018 - Fall 2020: NLP Engineer
-  * Samsung R&D Institute Poland in Warsaw, Poland
-  
