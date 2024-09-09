@@ -6,4 +6,4 @@ date: 2023-04-24
 location: "Online (in Polish)"
 ---
 
-[Link](http://zil.ipipan.waw.pl/seminarium), [Slides](https://mateuk.github.io/files/ipi_pan_2023.pdf)
+[Link](http://zil.ipipan.waw.pl/seminarium-archiwum), [Slides](https://mateuk.github.io/files/ipi_pan_2023.pdf)
