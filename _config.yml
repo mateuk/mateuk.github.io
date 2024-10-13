@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mateusz Krubiński"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Mateusz Krubiński"
+name                     : &name "Mateusz Krubiński, Ph.D."
 description              : &description "Research Scientist"
 url                      : https://mateuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
