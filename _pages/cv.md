@@ -19,7 +19,7 @@ Work experience
 
 Education
 ======
-* Ph.D. in Computational Linguistics/Computer Science (2020 - 2024)
+* Ph.D. in Computational Linguistics (2020 - 2024)
   * Charles University in Prague, Czech Republic
   * Supervised by [Pavel Pecina](https://scholar.google.com/citations?user=NMFKnr8AAAAJ)
   * Thesis on [Multimodal Summarization](https://dspace.cuni.cz/handle/20.500.11956/195344)
