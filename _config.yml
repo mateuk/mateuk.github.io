@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mateusz Krubiński"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Mateusz Krubiński"
 description              : &description "Research Scientist"
